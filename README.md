@@ -10,6 +10,7 @@ A modern neon-themed **Brick Breaker** web game built using **HTML, CSS, and Jav
 
 ## Live Demo
 
+
 🔗 https://adarshcsea.github.io/Brick-Breaker/
 
 ---
