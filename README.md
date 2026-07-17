@@ -3,6 +3,7 @@
 A modern neon-themed **Brick Breaker** web game built using **HTML, CSS, and JavaScript**. This project recreates the classic arcade experience with a responsive design, smooth animations, and mobile-friendly controls.
 
 > Created by **Adarsh Rai**
+> 
 > user *adarshcsea*
 
 ---
