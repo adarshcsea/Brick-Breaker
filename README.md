@@ -17,13 +17,9 @@ A modern neon-themed **Brick Breaker** web game built using **HTML, CSS, and Jav
 
 ## Preview
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b648e619-3325-4f83-9028-c101ada5b4d1" />
 
+<img width="1920" height="1080" alt="gif-brick" src="https://github.com/user-attachments/assets/1e21ef09-4e4b-4638-afe5-df7111da99c1" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/015cb59c-eec9-486d-8a95-67ff2e6d0d35" />
-
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/81690305-9fad-4250-b9a4-3b2283143a10" />
 
 
 ---
